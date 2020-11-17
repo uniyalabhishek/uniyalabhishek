@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Reinforcement learning
-- 🌱 I’m currently learning AI & Turinig machine
+- 🌱 I’m currently learning AI & Turing machine
 - 👯 I’m looking to collaborate on making cool APIs
 - 🤔 I’m looking for help with backend development & MATH
 - 💬 Ask me about cranial nerves, unorganized recipes & chess tactics
