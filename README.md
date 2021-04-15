@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- I’m currently working on making ReactJS projects 
+- I’m currently working on ReactJS projects 
 - I’m currently learning NodeJS & testing
 - I’m looking for help with Genomics
 - Ask me about cranial nerves, unorganized recipes & chess tactics
