@@ -8,9 +8,9 @@
 
 Here are some ideas to get you started:
 -->
-- I’m currently working on ReactJS projects 
-- I’m currently learning NodeJS & testing
-- I’m looking for help with Genomics
+- I’m currently working on Blockchain & Web3 projects
+- I’m currently learning Cryptography & Distributed computing
+- I’m looking for help with distributed ledger technology
 - Ask me about cranial nerves, unorganized recipes & chess tactics
 - How to reach me: email- abhishekuniyal912@gmail.com
 - Pronouns: he/him
